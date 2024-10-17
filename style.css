@@ -12,7 +12,19 @@ body {
 button {
     background-color: rgb(236, 8, 8);
     color: aqua;
-    font-family:  "Qwitcher Grypen", serif;;
+    font-family:  "Qwitcher Grypen", serif;
+
+
+}
+
+.passo {
+    display: none;
+
+
+}
+
+.passo.ativo {
+    display: block;
 
 
 }
